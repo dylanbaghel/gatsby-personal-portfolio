@@ -43,7 +43,7 @@ export default () => {
                     </div>
                     <div className="about__content">
                         <h1>About Me</h1>
-                        <p>I'm a fullstack website developer. I work with react, node, express, mongodb, mysql, django, react native & flutter. I'm pursuing for a software engineering degree.I am available for full time job as a web developer and mobile app developer or for feelance work.</p>
+                        <p>I'm a fullstack website developer and mobile app developer. I work with react, node, express, mongodb, mysql, django, react native & flutter. I'm pursuing for a software engineering degree.I am available for full time job or for freelance work as a web developer or mobile app developer.</p>
                     </div>
                 </div>
             </section>
