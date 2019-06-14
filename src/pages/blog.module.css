@@ -1,0 +1,34 @@
+.blog {
+    margin-top: 5rem;
+}
+
+.blog a {
+    background: #f4f4f4;
+    padding: 1rem;
+    margin: 1rem 0;
+    display: block;
+    color: black;
+}
+
+.blog a:hover {
+    background: #aaa;
+}
+
+.container {
+    max-width: 750px;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #f4f4f4;
+    line-height: 3.0;
+}
+
+.date {
+    margin-bottom: 1rem;
+    font-style: italic;
+    font-size: .75rem;
+    color: #333;
+    margin-top: .5rem;
+}
